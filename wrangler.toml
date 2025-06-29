@@ -1,0 +1,3 @@
+[[kv_namespaces]]
+binding = "MY_KV" # Binding name for your worker script
+id = "sso_node"
